@@ -4,6 +4,8 @@ The Florin Events App is a web application that allows users to create events, v
 ### Usage
 Once the application is installed, users can register as a user, create events, view other people's events, and declare interest in attending events. Users can also view events by category and search for events using the search bar.
 ![Application image](https://github.com/rickys93/lap2-project-client/blob/staging/images/app.png)
+![Application image](https://res.cloudinary.com/dlxcjxezc/image/upload/v1681987403/Florin-2_k6ypww.png)
+![Application image](https://res.cloudinary.com/dlxcjxezc/image/upload/v1681987403/Florin-3_sf5mhi.png)
 
 ### Acknowledgements
 This App was built with the cotributions of Mohakim231, rickys93 and kay-dev-uk.
